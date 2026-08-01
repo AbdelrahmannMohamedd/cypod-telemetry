@@ -67,7 +67,7 @@ npm test
 
 ---
 
-## 2. What we found in the sample data, and what we did about it
+## 2. What was found in the sample data, and what was done about it
 
 `sample_telemetry.json` has 529 records across five devices (`DEV-1001`–`DEV-1005`). Here's
 everything wrong with it, what the code does about each case, and why — the logic itself
@@ -190,32 +190,56 @@ actually exercise).
 
 ---
 
-## 6. What we didn't get to, and what we'd do next
+## 6.Cache Strategy
 
-- **Caching** (section 4) — deferred by request; plan is written above but not built.
-- **HIT/MISS logging** on `/latest` — blocked on the above.
-- Rate limiter state is in-process memory (`Map`s in `rateLimit.js`) — fine for one instance,
-  would move to Redis (`INCR`/`EXPIRE` per device) the moment there's more than one backend
-  process, so every instance shares the same counters. This is a storage swap, not a logic
-  change.
-- No refresh tokens — a JWT just expires (2h) and the user logs in again. Fine for a
-  first version; a real product would add refresh tokens or a shorter-lived
-  access/longer-lived refresh pair.
-- No device-side API key/secret — anyone with a valid user JWT and a registered device id
-  can post telemetry for it. A real fleet would give each physical device its own
-  credential, separate from the dashboard user's login.
-- History pagination is offset-based (`page`/`pageSize`); fine at today's volume, but at the
-  50M-rows/day scale from section 5 it should become keyset/cursor-based (`WHERE recorded_at
-  < :cursor`) since `OFFSET` gets slower the deeper you page.
-- Alerts don't currently auto-resolve (e.g. a `LOW_BATTERY` alert stays "active" even after
-  the next reading shows battery back above the floor) — `resolved` exists in the schema for
-  this but nothing sets it yet.
-- Frontend has no error boundary or retry/backoff on failed polls beyond "try again in 5s";
-  fine for a demo, worth hardening before anything real depends on it.
+The application uses a **cache-aside** approach because the database remains the source of truth while the cache only stores frequently accessed data.
+
+When a client requests:
+
+```
+GET /devices/:id/latest
+```
+
+the application first checks the cache.
+
+- **Cache HIT:** the latest reading is returned directly from memory without querying PostgreSQL.
+- **Cache MISS:** the latest reading is loaded from PostgreSQL, stored in the cache, and then returned to the client.
+
+This reduces unnecessary database queries for the dashboard, which frequently requests the latest device state.
+
+### TTL (Time-To-Live)
+
+Each cached entry has a **30-second TTL**.
+
+The value was chosen because:
+
+- The dashboard polls for device updates approximately every **5 seconds**.
+- Thirty seconds is long enough to reduce repeated database reads.
+- It is short enough to ensure that stale data cannot remain in memory for long if a cache update were ever missed.
+
+In practice, the TTL rarely determines freshness because new telemetry immediately refreshes the cache.
+
+### Immediate Cache Update
+
+A new telemetry event **does not wait for the TTL to expire**.
+
+After a telemetry reading is successfully inserted into PostgreSQL, the cached "latest" value for that device is updated immediately.
+
+This guarantees that a request arriving immediately after a new telemetry event always receives the newest reading from the cache.
+
+Duplicate telemetry events (ignored by the database through `ON CONFLICT DO NOTHING`) do not modify the cache.
+
+### Offline Batch Protection
+
+Devices may reconnect after being offline and upload buffered historical telemetry using the batch endpoint.
+
+To prevent older historical readings from replacing newer cached data, the cache only updates when the incoming reading has a `recorded_at` timestamp that is newer than (or equal to) the currently cached reading.
+
+This ensures the cache always represents the true latest state of the device even when historical data is replayed.
 
 ---
 
-## 7. PostgreSQL, for someone coming from Oracle
+## 7. PostgreSQL
 
 **What was done in Postgres**, concretely, all in
 `backend/src/db/schema.sql`:
