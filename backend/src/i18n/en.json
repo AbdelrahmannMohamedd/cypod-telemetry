@@ -1,0 +1,21 @@
+{
+  "AUTH_EMAIL_IN_USE": "An account with this email already exists.",
+  "AUTH_INVALID_CREDENTIALS": "Invalid email or password.",
+  "AUTH_TOKEN_MISSING": "Authentication token is missing.",
+  "AUTH_TOKEN_INVALID": "Authentication token is invalid or expired.",
+  "VALIDATION_FAILED": "The request could not be validated.",
+  "FIELD_REQUIRED": "\"{field}\" is required.",
+  "FIELD_MUST_BE_NUMBER": "\"{field}\" must be a number.",
+  "FIELD_MUST_BE_STRING": "\"{field}\" must be a string.",
+  "FIELD_OUT_OF_RANGE": "\"{field}\" must be between {min} and {max}.",
+  "FIELD_INVALID_TIMESTAMP": "\"{field}\" must be a valid ISO 8601 timestamp.",
+  "FIELD_INVALID_STATUS": "\"status\" must be one of: {values}.",
+  "DEVICE_NOT_FOUND": "Device not found.",
+  "DEVICE_ID_IN_USE": "A device with this id is already registered.",
+  "BATCH_TOO_LARGE": "A batch may not contain more than {max} readings.",
+  "BATCH_EMPTY": "\"readings\" must be a non-empty array.",
+  "RATE_LIMIT_EXCEEDED": "This device has sent too many readings in the last minute. Please slow down.",
+  "BATCH_RATE_LIMIT_EXCEEDED": "This device has already flushed a batch recently. Please wait before retrying.",
+  "NOT_FOUND": "The requested resource was not found.",
+  "INTERNAL_ERROR": "Something went wrong on our end. Please try again."
+}

@@ -1,0 +1,21 @@
+{
+  "AUTH_EMAIL_IN_USE": "يوجد حساب بهذا البريد الإلكتروني بالفعل.",
+  "AUTH_INVALID_CREDENTIALS": "البريد الإلكتروني أو كلمة المرور غير صحيحة.",
+  "AUTH_TOKEN_MISSING": "رمز المصادقة مفقود.",
+  "AUTH_TOKEN_INVALID": "رمز المصادقة غير صالح أو منتهي الصلاحية.",
+  "VALIDATION_FAILED": "تعذر التحقق من صحة الطلب.",
+  "FIELD_REQUIRED": "الحقل \"{field}\" مطلوب.",
+  "FIELD_MUST_BE_NUMBER": "الحقل \"{field}\" يجب أن يكون رقمًا.",
+  "FIELD_MUST_BE_STRING": "الحقل \"{field}\" يجب أن يكون نصًا.",
+  "FIELD_OUT_OF_RANGE": "الحقل \"{field}\" يجب أن يكون بين {min} و {max}.",
+  "FIELD_INVALID_TIMESTAMP": "الحقل \"{field}\" يجب أن يكون بصيغة ISO 8601 صحيحة.",
+  "FIELD_INVALID_STATUS": "الحقل \"status\" يجب أن يكون واحدًا من: {values}.",
+  "DEVICE_NOT_FOUND": "الجهاز غير موجود.",
+  "DEVICE_ID_IN_USE": "يوجد جهاز مسجل بهذا المعرف بالفعل.",
+  "BATCH_TOO_LARGE": "لا يمكن أن تحتوي الدفعة على أكثر من {max} قراءة.",
+  "BATCH_EMPTY": "\"readings\" يجب أن تكون مصفوفة غير فارغة.",
+  "RATE_LIMIT_EXCEEDED": "أرسل هذا الجهاز عددًا كبيرًا جدًا من القراءات خلال الدقيقة الماضية. يرجى الإبطاء.",
+  "BATCH_RATE_LIMIT_EXCEEDED": "قام هذا الجهاز بإرسال دفعة مؤخرًا بالفعل. يرجى الانتظار قبل إعادة المحاولة.",
+  "NOT_FOUND": "المورد المطلوب غير موجود.",
+  "INTERNAL_ERROR": "حدث خطأ ما من جانبنا. يرجى المحاولة مرة أخرى."
+}

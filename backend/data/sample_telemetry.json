@@ -1,0 +1,4802 @@
+[
+  {
+    "device_id": "DEV-1004",
+    "battery": 27.7,
+    "temperature": 28.3,
+    "lat": 29.7698,
+    "lng": 31.52071,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:54:03Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 76.9,
+    "temperature": 30.4,
+    "lat": 29.785596,
+    "lng": 30.892424,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:20:02Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 70.9,
+    "temperature": 24.1,
+    "lat": 29.815402,
+    "lng": 30.944606,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:08:21Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 40.9,
+    "temperature": 33.7,
+    "lat": 30.232593,
+    "lng": 31.311273,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:06:09Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 74.8,
+    "temperature": 24.0,
+    "lat": 30.08255,
+    "lng": 31.070623,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:44:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 91.6,
+    "temperature": 19.0,
+    "lat": 29.874403,
+    "lng": 31.612753,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:08:28Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 96.6,
+    "temperature": 40.3,
+    "lat": 30.263204,
+    "lng": 30.89349,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:02:16Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 23.7,
+    "temperature": 32.6,
+    "lat": 29.693079,
+    "lng": 31.445749,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:00:22Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 68.4,
+    "temperature": 30.7,
+    "lat": 29.772181,
+    "lng": 31.404818,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:08:12Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 73.4,
+    "temperature": 33.4,
+    "lat": 30.021752,
+    "lng": 31.603651,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:48:08Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 21.2,
+    "temperature": 24.9,
+    "lat": 30.172106,
+    "lng": 30.990693,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:16:22Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 22.0,
+    "temperature": 26.3,
+    "lat": 30.1175,
+    "lng": 31.566555,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:22:10Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 91.4,
+    "temperature": 38.7,
+    "lat": 29.762327,
+    "lng": 31.3772,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:10:17Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 43.0,
+    "temperature": 19.3,
+    "lat": 30.106665,
+    "lng": 31.032829,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:48:09Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 55.6,
+    "temperature": 35.1,
+    "lat": 30.025099,
+    "lng": 31.542982,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:08:18Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 98.3,
+    "temperature": 25.3,
+    "lat": 29.672601,
+    "lng": 31.031277,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:02:04Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 74.0,
+    "temperature": 20.6,
+    "lat": 29.924273,
+    "lng": 31.286889,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:58:02Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 22.9,
+    "temperature": 39.7,
+    "lat": 30.109328,
+    "lng": 30.992145,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:12:04Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 95.7,
+    "temperature": 30.0,
+    "lat": 30.377673,
+    "lng": 30.960434,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:18:12Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 31.0,
+    "temperature": 22.8,
+    "lat": 29.897875,
+    "lng": 30.937334,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:24:09Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 60.6,
+    "temperature": 29.3,
+    "lat": 30.047572,
+    "lng": 31.353281,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:02:16Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 84.3,
+    "temperature": 37.6,
+    "lat": 29.97918,
+    "lng": 31.483792,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:28:14Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 83.8,
+    "temperature": 27.6,
+    "lat": 30.35238,
+    "lng": 31.507596,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:22:25Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 87.7,
+    "temperature": 39.9,
+    "lat": 30.049057,
+    "lng": 31.308466,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:14:21Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 127,
+    "temperature": 34.4,
+    "lat": 29.823578,
+    "lng": 31.206514,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:12:00Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 78.9,
+    "temperature": 29.5,
+    "lat": 29.935822,
+    "lng": 31.375546,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:58:19Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 21.0,
+    "temperature": 22.2,
+    "lat": 29.805823,
+    "lng": 31.247998,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:52:13Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 31.5,
+    "temperature": 39.3,
+    "lat": 30.270915,
+    "lng": 31.546823,
+    "timestamp": "2026-07-10T08:05:00Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 35.5,
+    "temperature": 34.7,
+    "lat": 29.789989,
+    "lng": 31.093794,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:02:10Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 23.4,
+    "temperature": 20.9,
+    "lat": 29.797044,
+    "lng": 30.870425,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:30:05Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 79.8,
+    "temperature": 37.2,
+    "lat": 30.261553,
+    "lng": 31.465335,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:50:04Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 27.9,
+    "temperature": 30.8,
+    "lat": 29.873488,
+    "lng": 31.536132,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:30:07Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 35.4,
+    "temperature": 24.4,
+    "lat": 29.953954,
+    "lng": 30.9639,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:32:29Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 53.8,
+    "temperature": 39.2,
+    "lat": 29.919168,
+    "lng": 30.882519,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:02:00Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 60.5,
+    "temperature": 39.0,
+    "lat": null,
+    "lng": null,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:20:00Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 27.0,
+    "temperature": 26.3,
+    "lat": 30.313647,
+    "lng": 30.921439,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:21:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 34.8,
+    "temperature": 37.6,
+    "lat": 30.405186,
+    "lng": 31.07369,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:40:17Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 85.0,
+    "temperature": 24.3,
+    "lat": 29.966334,
+    "lng": 31.60774,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:52:15Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 25.7,
+    "temperature": 34.4,
+    "lat": 30.035227,
+    "lng": 31.60307,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:54:30Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 84.9,
+    "temperature": 21.6,
+    "lat": 29.792792,
+    "lng": 31.025957,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:02:12Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 35.8,
+    "temperature": 22.3,
+    "lat": 30.310378,
+    "lng": 31.406381,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:28:02Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 36.2,
+    "temperature": 36.5,
+    "lat": 29.830134,
+    "lng": 30.84386,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:02:29Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 28.9,
+    "temperature": 29.6,
+    "lat": 29.888244,
+    "lng": 31.044936,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:38:05Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 93.1,
+    "temperature": 34.3,
+    "lat": 30.101183,
+    "lng": 31.421216,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:00:19Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 95.0,
+    "temperature": 40.9,
+    "lat": 30.208814,
+    "lng": 31.424973,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:46:01Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 90.6,
+    "temperature": 28.4,
+    "lat": 29.926622,
+    "lng": 30.881284,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:00:03Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 68.1,
+    "temperature": 22.4,
+    "lat": 30.068187,
+    "lng": 30.907596,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:16:17Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 91.9,
+    "temperature": 28.1,
+    "lat": 29.963842,
+    "lng": 31.193485,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:38:12Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 54.6,
+    "temperature": 30.0,
+    "lat": 29.665572,
+    "lng": 31.371737,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:40:26Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 36.7,
+    "temperature": 27.9,
+    "lat": 29.805741,
+    "lng": 30.926169,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:38:23Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 94.5,
+    "temperature": 30.6,
+    "lat": 30.269041,
+    "lng": 31.534897,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:10:24Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 54.3,
+    "temperature": 19.2,
+    "lat": 30.070397,
+    "lng": 30.892875,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:12:03Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 54.5,
+    "temperature": 39.5,
+    "lat": 29.708728,
+    "lng": 31.358142,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:50:04Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 98.6,
+    "temperature": 41.0,
+    "lat": 29.817064,
+    "lng": 31.187848,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:52:22Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": -5,
+    "temperature": 33.7,
+    "lat": 30.376133,
+    "lng": 31.339348,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:14:00Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 54.3,
+    "temperature": 25.5,
+    "lat": 29.778414,
+    "lng": 31.618875,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:36:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 73.1,
+    "temperature": 26.8,
+    "lat": 30.144592,
+    "lng": 30.956541,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:36:22Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 82.7,
+    "temperature": 27.9,
+    "lat": 30.30075,
+    "lng": 31.131861,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:34:10Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 56.9,
+    "temperature": 28.0,
+    "lat": 30.061623,
+    "lng": 31.366404,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:38:28Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 45.0,
+    "temperature": 28.2,
+    "lat": 30.37128,
+    "lng": 31.304758,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:18:29Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 96.7,
+    "temperature": 23.9,
+    "lat": 29.807966,
+    "lng": 31.379396,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:52:07Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 35.6,
+    "temperature": 19.8,
+    "lat": 30.084434,
+    "lng": 31.565324,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:16:21Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 70.1,
+    "temperature": 24.4,
+    "lat": 30.404408,
+    "lng": 31.065181,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:52:22Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 72.4,
+    "temperature": 37.1,
+    "lat": 30.119965,
+    "lng": 31.204447,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:02:09Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 70.8,
+    "temperature": 31.0,
+    "lat": 29.779793,
+    "lng": 31.136207,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:30:15Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 64.3,
+    "temperature": 40.3,
+    "lat": 30.20239,
+    "lng": 31.037165,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:22:04Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 89.3,
+    "temperature": 22.2,
+    "lat": 29.743684,
+    "lng": 31.382938,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:50:17Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 83.5,
+    "temperature": 36.4,
+    "lat": 30.183773,
+    "lng": 31.060495,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:26:08Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 56.4,
+    "temperature": 39.5,
+    "lat": 30.211866,
+    "lng": 31.0691,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:38:22Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 88.8,
+    "temperature": 30.8,
+    "lat": 29.912079,
+    "lng": 31.025387,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:24:27Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 48.8,
+    "temperature": 23.5,
+    "lat": 30.155501,
+    "lng": 31.216423,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:04:23Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 33.3,
+    "temperature": 31.5,
+    "lat": 29.866486,
+    "lng": 31.632246,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:46:30Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 63.1,
+    "temperature": 29.6,
+    "lat": 29.680004,
+    "lng": 31.521452,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:44:09Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 87.3,
+    "temperature": 32.4,
+    "lat": 29.711172,
+    "lng": 30.85716,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:40:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 38.1,
+    "temperature": 28.8,
+    "lat": 29.868426,
+    "lng": 31.37036,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:38:26Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 30.7,
+    "temperature": 33.2,
+    "lat": 29.856637,
+    "lng": 31.223139,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:26:05Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 98.9,
+    "temperature": 37.6,
+    "lat": 29.942877,
+    "lng": 30.972702,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:54:22Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 93.7,
+    "temperature": 24.3,
+    "lat": 30.038468,
+    "lng": 31.266375,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:08:21Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 79.7,
+    "temperature": 27.6,
+    "lat": 30.322585,
+    "lng": 30.907015,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:52:23Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 89.9,
+    "temperature": 30.3,
+    "lat": 29.890854,
+    "lng": 31.152699,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:42:05Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 43.4,
+    "temperature": 31.9,
+    "lat": 29.87146,
+    "lng": 31.32108,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:20:23Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 59.4,
+    "temperature": 36.4,
+    "lat": 29.797719,
+    "lng": 31.431562,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:36:16Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 27.7,
+    "temperature": 22.7,
+    "lat": 30.153969,
+    "lng": 31.248951,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:00:04Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 24.1,
+    "temperature": 34.3,
+    "lat": 30.036863,
+    "lng": 31.497539,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:22:09Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 63.7,
+    "temperature": 25.5,
+    "lat": 30.22558,
+    "lng": 31.337237,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:42:11Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 67.1,
+    "temperature": 39.2,
+    "lat": 30.360135,
+    "lng": 31.180203,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:16:18Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 79.3,
+    "temperature": 39.5,
+    "lat": 30.23192,
+    "lng": 31.516516,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:16:30Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 45.2,
+    "temperature": 30.7,
+    "lat": 30.240051,
+    "lng": 31.480831,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:28:25Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 24.2,
+    "temperature": 35.5,
+    "lat": 30.285122,
+    "lng": 31.334237,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:20:25Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 48.7,
+    "temperature": 34.2,
+    "lat": 29.880072,
+    "lng": 31.513096,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:34:00Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 88.0,
+    "temperature": 23.1,
+    "lat": 30.409468,
+    "lng": 31.631945,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:18:25Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 29.9,
+    "temperature": 31.6,
+    "lat": 30.43003,
+    "lng": 31.404134,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:30:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 83.0,
+    "temperature": 26.7,
+    "lat": 30.09197,
+    "lng": 30.983591,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:52:27Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 47.5,
+    "temperature": 39.3,
+    "lat": 30.119521,
+    "lng": 31.373277,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:16:17Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 48.5,
+    "temperature": 18.8,
+    "lat": 30.061056,
+    "lng": 30.942408,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:00:25Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 31.4,
+    "temperature": 36.9,
+    "lat": 30.254475,
+    "lng": 31.025069,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:10:12Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 67.2,
+    "temperature": 29.2,
+    "lat": 30.351355,
+    "lng": 30.970149,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:56:18Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 43.2,
+    "temperature": 36.8,
+    "lat": 29.844983,
+    "lng": 31.369317,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:38:28Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 30.2,
+    "temperature": 35.7,
+    "lat": 30.125871,
+    "lng": 30.911372,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:46:22Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 72.8,
+    "temperature": 38.4,
+    "lat": 29.967096,
+    "lng": 31.425736,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:00:22Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 75.8,
+    "temperature": 31.4,
+    "lat": 30.052652,
+    "lng": 30.97919,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:52:25Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 40.4,
+    "temperature": 35.1,
+    "lat": 30.291888,
+    "lng": 31.182351,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:58:00Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 64.2,
+    "temperature": 30.5,
+    "lat": 30.308495,
+    "lng": 31.414481,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:18:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 24.9,
+    "temperature": 39.9,
+    "lat": 30.312519,
+    "lng": 31.432369,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:34:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 11.0,
+    "temperature": 32.0,
+    "lat": 29.818018,
+    "lng": 31.386231,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:20:00Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 50.3,
+    "temperature": 25.1,
+    "lat": 30.279772,
+    "lng": 31.227315,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:32:17Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 41.4,
+    "temperature": 39.9,
+    "lat": 30.303676,
+    "lng": 31.340362,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:48:17Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 56.1,
+    "temperature": 34.6,
+    "lat": 29.784617,
+    "lng": 30.989944,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:14:29Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 26.8,
+    "temperature": 18.9,
+    "lat": 29.696787,
+    "lng": 31.164505,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:04:25Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 73.9,
+    "temperature": 27.1,
+    "lat": 29.969458,
+    "lng": 30.983962,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:48:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 66.5,
+    "temperature": 36.8,
+    "lat": 29.860287,
+    "lng": 31.342071,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:30:08Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 47.6,
+    "temperature": 30.2,
+    "lat": 29.812311,
+    "lng": 31.559982,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:10:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 25.4,
+    "temperature": 19.1,
+    "lat": 29.73214,
+    "lng": 31.625578,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:54:11Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 64.0,
+    "temperature": 29.5,
+    "lat": 30.152535,
+    "lng": 31.61173,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:00:00Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 95.4,
+    "temperature": 32.2,
+    "lat": 30.102308,
+    "lng": 31.534291,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:36:18Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 71.6,
+    "temperature": 38.6,
+    "lat": 30.267243,
+    "lng": 31.46117,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:00:13Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 51.4,
+    "temperature": 34.4,
+    "lat": 29.924602,
+    "lng": 31.181049,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:58:16Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 65.4,
+    "temperature": 29.3,
+    "lat": 30.078953,
+    "lng": 31.195995,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:20:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 38.9,
+    "temperature": 20.7,
+    "lat": 29.9544,
+    "lng": 31.370361,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:54:25Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 69.5,
+    "temperature": 28.9,
+    "lat": 29.844767,
+    "lng": 30.86597,
+    "status": "OK",
+    "timestamp": "2026-07-10T09:25:00Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 85.1,
+    "temperature": 26.8,
+    "lat": 30.27609,
+    "lng": 31.573081,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:00:24Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 40.3,
+    "temperature": 19.6,
+    "lat": 29.739497,
+    "lng": 31.54895,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:24:26Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 25.8,
+    "temperature": 22.3,
+    "lat": 30.417489,
+    "lng": 31.347454,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:20:06Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 54.9,
+    "temperature": 26.9,
+    "lat": 30.299324,
+    "lng": 31.507626,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:19:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 44.8,
+    "temperature": 36.3,
+    "lat": 30.133035,
+    "lng": 31.181435,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:04:18Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 28.2,
+    "temperature": 30.4,
+    "lat": 30.201842,
+    "lng": 30.885234,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:24:06Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 22.4,
+    "temperature": 21.2,
+    "lat": 30.250319,
+    "lng": 30.902486,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:06:24Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 65.8,
+    "temperature": 18.6,
+    "lat": 30.394089,
+    "lng": 31.37898,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:18:08Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 62.8,
+    "temperature": 32.0,
+    "lat": 30.149887,
+    "lng": 31.360504,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:48:16Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 92.9,
+    "temperature": 32.1,
+    "lat": 30.389457,
+    "lng": 31.053332,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:42:21Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 86.9,
+    "temperature": 39.9,
+    "lat": 30.275509,
+    "lng": 31.222936,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:48:23Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 74.9,
+    "temperature": 34.3,
+    "lat": 30.29835,
+    "lng": 31.555584,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:08:07Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 94.8,
+    "temperature": 32.3,
+    "lat": 30.215266,
+    "lng": 31.489596,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:52:15Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 28.6,
+    "temperature": 32.3,
+    "lat": 29.714031,
+    "lng": 31.490176,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:28:06Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 81.3,
+    "temperature": 25.2,
+    "lat": 30.210472,
+    "lng": 31.58537,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:08:28Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 75.6,
+    "temperature": 29.0,
+    "lat": 30.157609,
+    "lng": 31.4422,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:44:18Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 41.1,
+    "temperature": 27.0,
+    "lat": 30.409584,
+    "lng": 30.90422,
+    "status": "OK",
+    "timestamp": "2026-07-10T09:53:00Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 63.8,
+    "temperature": 18.5,
+    "lat": 30.403631,
+    "lng": 31.038657,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:23:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 45.1,
+    "temperature": 29.7,
+    "lat": 29.895527,
+    "lng": 31.041515,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:06:04Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 96.1,
+    "temperature": 22.6,
+    "lat": 30.221313,
+    "lng": 31.474606,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:45:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 83.0,
+    "temperature": 32.3,
+    "lat": 29.922768,
+    "lng": 30.995555,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:42:06Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 87.0,
+    "temperature": 24.1,
+    "lat": 29.740394,
+    "lng": 31.402382,
+    "status": "OK",
+    "timestamp": "2026-07-10T09:30:00Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 41.7,
+    "temperature": 18.9,
+    "lat": 30.350735,
+    "lng": 31.524541,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:10:30Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 44.1,
+    "temperature": 33.4,
+    "lat": 29.723626,
+    "lng": 31.581991,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:36:14Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 63.2,
+    "temperature": 25.0,
+    "lat": 30.21549,
+    "lng": 31.341983,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:22:16Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 75.5,
+    "temperature": 19.0,
+    "lat": 30.29691,
+    "lng": 31.104468,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:20:29Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 51.9,
+    "temperature": 37.1,
+    "lat": 30.176258,
+    "lng": 31.348331,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:02:03Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 63.6,
+    "temperature": 38.8,
+    "lat": 29.836538,
+    "lng": 31.519052,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:22:04Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 23.4,
+    "temperature": 30.9,
+    "lat": 29.881411,
+    "lng": 30.954647,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:14:20Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 10.7,
+    "temperature": 34.4,
+    "lat": 29.999202,
+    "lng": 31.201351,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:21:00Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 31.2,
+    "temperature": 35.0,
+    "lat": 30.149118,
+    "lng": 31.623549,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:04:14Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 54.9,
+    "temperature": 28.9,
+    "lat": 30.193373,
+    "lng": 31.114068,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:08:01Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 44.2,
+    "temperature": 38.3,
+    "lat": 30.367183,
+    "lng": 30.93358,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:46:15Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 73.5,
+    "temperature": 25.9,
+    "lat": 29.910465,
+    "lng": 31.377242,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:40:17Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 40.4,
+    "temperature": 33.3,
+    "lat": 30.396572,
+    "lng": 31.457784,
+    "status": "OK",
+    "timestamp": "2026-07-10T09:46:00Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 75.8,
+    "temperature": 35.4,
+    "lat": 30.370894,
+    "lng": 31.211598,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:46:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 30.0,
+    "temperature": 30.0,
+    "lat": 30.322551,
+    "lng": 31.29865,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:20:10Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 65.5,
+    "temperature": 40.8,
+    "lat": 30.216402,
+    "lng": 31.3463,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:32:00Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 47.8,
+    "temperature": 25.1,
+    "lat": 30.169754,
+    "lng": 31.42027,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:28:25Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 97.6,
+    "temperature": 19.8,
+    "lat": 29.685751,
+    "lng": 30.991277,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:24:18Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 70.4,
+    "temperature": 850.0,
+    "lat": 29.683152,
+    "lng": 31.38378,
+    "status": "FAULT",
+    "timestamp": "2026-07-10T07:25:00Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 75.9,
+    "temperature": 27.8,
+    "lat": 30.198459,
+    "lng": 31.601136,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:56:24Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 96.6,
+    "temperature": 40.9,
+    "lat": 30.396178,
+    "lng": 30.937407,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:50:17Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 9.8,
+    "temperature": 29.2,
+    "lat": 30.395321,
+    "lng": 30.850706,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:24:00Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 43.5,
+    "temperature": 20.8,
+    "lat": 30.023694,
+    "lng": 31.251939,
+    "status": "OK",
+    "timestamp": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 53.0,
+    "temperature": 21.7,
+    "lat": 30.019768,
+    "lng": 31.393824,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:10:29Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 49.0,
+    "temperature": 27.1,
+    "lat": 30.318847,
+    "lng": 31.59478,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:35:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 49.3,
+    "temperature": 38.0,
+    "lat": 30.333073,
+    "lng": 31.348124,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:52:24Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 69.6,
+    "temperature": 40.2,
+    "lat": 29.971482,
+    "lng": 31.179203,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:48:05Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 89.1,
+    "temperature": 30.9,
+    "lat": 29.840945,
+    "lng": 31.13073,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:42:27Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 32.1,
+    "temperature": 25.6,
+    "lat": 29.826973,
+    "lng": 31.613921,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:30:09Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 52.6,
+    "temperature": 27.9,
+    "lat": 30.416134,
+    "lng": 31.042213,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:30:06Z"
+  },
+  {
+    "device_id": "DEV-9999",
+    "battery": 22.8,
+    "temperature": 39.9,
+    "lat": 29.701293,
+    "lng": 30.83973,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:32:00Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 71.9,
+    "temperature": 26.0,
+    "lat": 30.034088,
+    "lng": 31.141689,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:44:28Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 23.4,
+    "temperature": 27.7,
+    "lat": 29.91665,
+    "lng": 30.906811,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:30:29Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 80.4,
+    "temperature": 37.3,
+    "lat": 29.907466,
+    "lng": 30.923588,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:26:17Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 69.6,
+    "temperature": 38.9,
+    "lat": 30.321439,
+    "lng": 30.921732,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:42:05Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 22.1,
+    "temperature": 28.8,
+    "lat": 30.285119,
+    "lng": 30.895071,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:54:15Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 87.7,
+    "temperature": 33.3,
+    "lat": 29.772429,
+    "lng": 31.164697,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:26:16Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 44.6,
+    "temperature": 31.7,
+    "lat": 30.389169,
+    "lng": 31.019168,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:40:08Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 51.9,
+    "temperature": 34.8,
+    "lat": 30.430983,
+    "lng": 31.177037,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:37:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 36.1,
+    "temperature": 30.8,
+    "lat": 29.789319,
+    "lng": 31.058858,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:18:07Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 24.4,
+    "temperature": 36.6,
+    "lat": 30.050491,
+    "lng": 31.390828,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:40:28Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 39.2,
+    "temperature": 23.1,
+    "lat": 30.382258,
+    "lng": 31.332241,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:04:03Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 47.2,
+    "temperature": 23.1,
+    "lat": 29.978318,
+    "lng": 31.566752,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:58:16Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 65.1,
+    "temperature": 40.9,
+    "lat": 29.766772,
+    "lng": 31.513899,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:18:13Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 85.7,
+    "temperature": 31.8,
+    "lat": 30.22417,
+    "lng": 30.910908,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:50:26Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 85.0,
+    "temperature": 22.3,
+    "lat": 29.732917,
+    "lng": 30.843249,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:06:07Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 66.0,
+    "temperature": 25.4,
+    "lat": 29.661948,
+    "lng": 31.613704,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:28:04Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 94.5,
+    "temperature": 20.5,
+    "lat": 30.438372,
+    "lng": 31.151148,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:24:13Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 80.6,
+    "temperature": 36.5,
+    "lat": 29.784447,
+    "lng": 31.02112,
+    "status": "OK",
+    "timestamp": "2026-07-10T09:10:00Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 65.0,
+    "temperature": 33.1,
+    "lat": 29.712651,
+    "lng": 31.114618,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:44:04Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 28.2,
+    "temperature": 29.7,
+    "lat": 29.908771,
+    "lng": 31.15977,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:30:20Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 72.0,
+    "temperature": 28.1,
+    "lat": 30.11197,
+    "lng": 31.537832,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:32:16Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 49.8,
+    "temperature": 31.7,
+    "lat": 29.692425,
+    "lng": 30.840227,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:28:18Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 21.6,
+    "temperature": 39.9,
+    "lat": 30.382577,
+    "lng": 31.183701,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:02:09Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 42.5,
+    "temperature": 28.0,
+    "lat": 30.289746,
+    "lng": 31.586606,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:26:15Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 67.2,
+    "temperature": 32.1,
+    "lat": 30.093607,
+    "lng": 31.600851,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:24:10Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 89.3,
+    "temperature": 30.8,
+    "lat": 29.986045,
+    "lng": 31.320814,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:06:08Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 97.7,
+    "temperature": 30.4,
+    "lat": 30.362633,
+    "lng": 30.967912,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:36:27Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 63.5,
+    "temperature": 35.8,
+    "lat": 29.886758,
+    "lng": 31.143777,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:34:13Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 25.8,
+    "temperature": 34.7,
+    "lat": 30.00534,
+    "lng": 31.498419,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:10:02Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 59.0,
+    "temperature": 32.2,
+    "lat": 29.885044,
+    "lng": 31.467719,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:42:26Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 70.3,
+    "temperature": 22.9,
+    "lat": 29.825993,
+    "lng": 31.113466,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:46:12Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 9.5,
+    "temperature": 36.3,
+    "lat": 30.435256,
+    "lng": 30.898819,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:25:00Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 94.0,
+    "temperature": 37.4,
+    "lat": 29.910402,
+    "lng": 31.088949,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:50:05Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 82.1,
+    "temperature": 25.0,
+    "lat": 29.951636,
+    "lng": 31.143864,
+    "status": "OK",
+    "timestamp": "2026-07-10T09:00:00Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 56.1,
+    "temperature": 24.1,
+    "lat": 29.805185,
+    "lng": 30.88954,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:02:19Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 91.6,
+    "temperature": 23.2,
+    "lat": 30.23063,
+    "lng": 30.916601,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:32:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 53.1,
+    "temperature": 19.0,
+    "lat": 30.297094,
+    "lng": 31.00298,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:40:23Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 27.1,
+    "temperature": 22.4,
+    "lat": 30.169359,
+    "lng": 31.251375,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:56:03Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 94.8,
+    "temperature": 34.1,
+    "lat": 30.061652,
+    "lng": 30.966556,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:54:11Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 71.7,
+    "temperature": 39.5,
+    "lat": 30.23216,
+    "lng": 31.474415,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:06:24Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 47.9,
+    "temperature": 26.2,
+    "lat": 30.033505,
+    "lng": 31.357265,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:40:27Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 78.5,
+    "temperature": 33.1,
+    "lat": 29.722701,
+    "lng": 31.230982,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:34:09Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 39.3,
+    "temperature": 30.4,
+    "lat": 30.391079,
+    "lng": 31.511808,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:18:30Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 72.5,
+    "temperature": 18.3,
+    "lat": 30.126669,
+    "lng": 30.907061,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:20:24Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 82.3,
+    "temperature": 25.6,
+    "lat": 30.085679,
+    "lng": 31.214167,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:18:21Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 40.3,
+    "temperature": 20.4,
+    "lat": 29.87296,
+    "lng": 31.595608,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:46:14Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 81.9,
+    "temperature": 40.5,
+    "lat": 29.690516,
+    "lng": 31.070678,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:34:03Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 32.0,
+    "temperature": 20.5,
+    "lat": 29.808236,
+    "lng": 31.555421,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:26:08Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 61.5,
+    "temperature": 33.4,
+    "lat": 29.835431,
+    "lng": 31.536756,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:44:12Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 79.7,
+    "temperature": 35.9,
+    "lat": 29.691921,
+    "lng": 30.928692,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:14:28Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 52.8,
+    "temperature": 35.5,
+    "lat": 29.991517,
+    "lng": 31.403708,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:18:06Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 62.3,
+    "temperature": 24.0,
+    "lat": 30.391974,
+    "lng": 31.102219,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:12:20Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 89.4,
+    "temperature": 20.9,
+    "lat": 29.763883,
+    "lng": 31.542397,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:46:02Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 45.2,
+    "temperature": 20.2,
+    "lat": 30.286339,
+    "lng": 31.065941,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:10:24Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 25.3,
+    "temperature": 35.5,
+    "lat": 29.779952,
+    "lng": 31.127646,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:22:00Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 20.3,
+    "temperature": 36.4,
+    "lat": 29.657865,
+    "lng": 30.914089,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:40:24Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 87.0,
+    "temperature": 23.9,
+    "lat": 29.860484,
+    "lng": 31.247998,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:50:27Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 75.6,
+    "temperature": 31.7,
+    "lat": 29.689206,
+    "lng": 30.917251,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:10:05Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 43.8,
+    "temperature": 26.1,
+    "lat": 30.320981,
+    "lng": 30.865896,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:24:00Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 93.4,
+    "temperature": 29.0,
+    "lat": 29.972096,
+    "lng": 30.937675,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:52:10Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 69.4,
+    "temperature": 30.8,
+    "lat": 29.794375,
+    "lng": 31.073353,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:14:07Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 63.8,
+    "temperature": 30.4,
+    "lat": 30.410123,
+    "lng": 31.58075,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:50:11Z"
+  },
+  {
+    "device_id": "DEV-9999",
+    "battery": 25.1,
+    "temperature": 28.8,
+    "lat": 29.780868,
+    "lng": 31.178778,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:30:00Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 28.7,
+    "temperature": 31.2,
+    "lat": 29.96163,
+    "lng": 30.864702,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:56:09Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 54.0,
+    "temperature": 39.8,
+    "lat": 30.370114,
+    "lng": 31.187754,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:20:28Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 79.4,
+    "temperature": 32.9,
+    "lat": 30.213089,
+    "lng": 31.475079,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:14:07Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 24.4,
+    "temperature": 40.1,
+    "lat": 29.71161,
+    "lng": 31.131932,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:32:15Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 69.1,
+    "temperature": 34.3,
+    "lat": 30.13278,
+    "lng": 31.146371,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:22:15Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 20.2,
+    "temperature": 21.3,
+    "lat": 29.722174,
+    "lng": 31.220832,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:08:14Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 87.2,
+    "temperature": 37.1,
+    "lat": 29.668683,
+    "lng": 31.142096,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:34:10Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 62.8,
+    "temperature": 25.2,
+    "lat": 29.979978,
+    "lng": 31.298733,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:04:09Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 33.2,
+    "temperature": 29.7,
+    "lat": 30.160395,
+    "lng": 31.508886,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:04:19Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 79.6,
+    "temperature": 36.4,
+    "lat": 29.736249,
+    "lng": 31.425753,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:40:04Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 57.5,
+    "temperature": 20.9,
+    "lat": 29.763232,
+    "lng": 31.432044,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:58:06Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 64.6,
+    "temperature": 25.9,
+    "lat": 30.130398,
+    "lng": 31.326006,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:30:15Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 37.9,
+    "temperature": 31.5,
+    "lat": 29.794117,
+    "lng": 31.03706,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:24:30Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 37.7,
+    "temperature": 22.3,
+    "lat": 29.660697,
+    "lng": 31.603549,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:22:30Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 9.2,
+    "temperature": 35.2,
+    "lat": 29.886675,
+    "lng": 31.37471,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:26:00Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 46.7,
+    "temperature": 32.3,
+    "lat": 29.78212,
+    "lng": 31.223951,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:58:04Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 73.5,
+    "temperature": 37.2,
+    "lat": 29.749756,
+    "lng": 30.862908,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:26:16Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 97.2,
+    "temperature": 39.0,
+    "lat": 30.163843,
+    "lng": 31.327915,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:14:14Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 96.2,
+    "temperature": 32.0,
+    "lat": 29.922767,
+    "lng": 31.060542,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:22:08Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 80.7,
+    "temperature": 28.4,
+    "lat": 30.410316,
+    "lng": 31.022835,
+    "status": "OK",
+    "timestamp": "2026-07-10T09:25:00Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 91.5,
+    "temperature": 24.1,
+    "lat": 29.987694,
+    "lng": 31.436791,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:04:19Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 21.0,
+    "temperature": 36.2,
+    "lat": 30.005162,
+    "lng": 31.315717,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:16:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 48.3,
+    "temperature": 38.5,
+    "lat": 29.716018,
+    "lng": 31.462565,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:08:15Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 20.2,
+    "temperature": 36.6,
+    "lat": 30.262672,
+    "lng": 31.496003,
+    "status": "OK",
+    "timestamp": "2026-07-10T09:35:00Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 93.0,
+    "temperature": 26.5,
+    "lat": 29.971932,
+    "lng": 30.887427,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:25:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 60.4,
+    "temperature": 37.8,
+    "lat": 30.250921,
+    "lng": 31.263269,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:58:20Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 82.9,
+    "temperature": 23.9,
+    "lat": 29.800069,
+    "lng": 30.867083,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:14:08Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 25.4,
+    "temperature": 18.8,
+    "lat": 30.381203,
+    "lng": 31.00693,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:44:09Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 27.1,
+    "temperature": 32.2,
+    "lat": 29.667154,
+    "lng": 31.408805,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:46:18Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 73.2,
+    "temperature": 24.5,
+    "lat": 30.233254,
+    "lng": 30.884478,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:44:05Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 57.4,
+    "temperature": 18.3,
+    "lat": 30.418378,
+    "lng": 31.518413,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:20:12Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 62.7,
+    "temperature": 31.5,
+    "lat": 30.07317,
+    "lng": 30.863328,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:30:28Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 90.0,
+    "temperature": 19.1,
+    "lat": 29.756261,
+    "lng": 31.233234,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:30:10Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 47.4,
+    "temperature": 21.5,
+    "lat": 29.730393,
+    "lng": 31.153088,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:39:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 64.4,
+    "temperature": 35.7,
+    "lat": 30.226835,
+    "lng": 31.336087,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:06:20Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 45.8,
+    "temperature": 33.1,
+    "lat": 30.205056,
+    "lng": 31.12871,
+    "status": "OK",
+    "timestamp": "2026-07-10T09:45:00Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 71.9,
+    "temperature": 23.3,
+    "lat": 30.403913,
+    "lng": 31.615721,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:10:16Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 26.6,
+    "temperature": 29.7,
+    "lat": 29.734163,
+    "lng": 31.20879,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:12:02Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 67.4,
+    "temperature": 23.8,
+    "lat": 29.985701,
+    "lng": 31.247082,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:54:06Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 79.6,
+    "temperature": 35.5,
+    "lat": 29.772009,
+    "lng": 31.308304,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:28:24Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 91.3,
+    "temperature": 38.4,
+    "lat": 30.221207,
+    "lng": 31.050702,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:38:06Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 49.1,
+    "temperature": 36.7,
+    "lat": 29.674399,
+    "lng": 30.841026,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:06:19Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 10.4,
+    "temperature": 22.5,
+    "lat": 29.856445,
+    "lng": 31.328491,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:22:00Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 41.7,
+    "temperature": 30.1,
+    "lat": 30.119755,
+    "lng": 31.146706,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:12:29Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 38.7,
+    "temperature": 35.7,
+    "lat": 30.261616,
+    "lng": 31.590616,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:42:28Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 28.6,
+    "temperature": 22.0,
+    "lat": 29.819268,
+    "lng": 31.090925,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:16:14Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 25.7,
+    "temperature": 18.1,
+    "lat": 30.219182,
+    "lng": 30.982562,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:38:20Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 28.2,
+    "temperature": 32.1,
+    "lat": 30.036332,
+    "lng": 30.907284,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:32:05Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 39.4,
+    "temperature": 39.6,
+    "lat": 30.071731,
+    "lng": 31.625738,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:56:06Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 60.3,
+    "temperature": 18.3,
+    "lat": 29.821548,
+    "lng": 30.937795,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:54:05Z"
+  },
+  {
+    "device_id": "DEV-9999",
+    "battery": 56.0,
+    "temperature": 25.9,
+    "lat": 30.359019,
+    "lng": 30.932395,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:33:00Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 80.5,
+    "temperature": 23.0,
+    "lat": 30.163772,
+    "lng": 31.591374,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:52:23Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 76.1,
+    "temperature": 36.3,
+    "lat": 29.656419,
+    "lng": 31.136405,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:08:28Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 34.3,
+    "temperature": 36.5,
+    "lat": 29.771228,
+    "lng": 31.315463,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:16:20Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 82.4,
+    "temperature": 27.2,
+    "lat": 30.117921,
+    "lng": 31.015943,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:30:17Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 48.1,
+    "temperature": 25.6,
+    "lat": 29.865813,
+    "lng": 31.611121,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:12:06Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 59.0,
+    "temperature": 20.8,
+    "lat": 30.319189,
+    "lng": 31.191749,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:22:15Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 45.0,
+    "temperature": 19.8,
+    "lat": 29.995967,
+    "lng": 31.268045,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:06:05Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 37.6,
+    "temperature": 29.0,
+    "lat": 29.732715,
+    "lng": 30.87521,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:38:18Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 79.3,
+    "temperature": 29.1,
+    "lat": 30.138861,
+    "lng": 31.341455,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:34:23Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 62.4,
+    "temperature": 23.9,
+    "lat": 29.740893,
+    "lng": 31.275077,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:58:20Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 79.8,
+    "temperature": 26.6,
+    "lat": 30.442653,
+    "lng": 31.050985,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:42:01Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 87.5,
+    "temperature": 39.4,
+    "lat": 30.266179,
+    "lng": 31.368354,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:44:17Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 59.0,
+    "temperature": 27.5,
+    "lat": 30.314367,
+    "lng": 30.941384,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:12:12Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 42.7,
+    "temperature": 39.3,
+    "lat": 30.171782,
+    "lng": 30.855741,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:47:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 53.2,
+    "temperature": 34.8,
+    "lat": 30.325791,
+    "lng": 31.092834,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:08:11Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 69.1,
+    "temperature": 31.2,
+    "lat": 29.947214,
+    "lng": 31.598177,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:28:13Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 74.7,
+    "temperature": 22.4,
+    "lat": 30.372862,
+    "lng": 31.234357,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:48:13Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 78.8,
+    "temperature": 36.1,
+    "lat": 30.113387,
+    "lng": 31.614932,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:12:29Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 61.8,
+    "temperature": 26.3,
+    "lat": 30.144911,
+    "lng": 31.439296,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:48:03Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 22.8,
+    "temperature": 18.4,
+    "lat": 30.188249,
+    "lng": 31.290852,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:44:30Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 38.5,
+    "temperature": 21.5,
+    "lat": 30.204657,
+    "lng": 31.40241,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:34:18Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 50.7,
+    "temperature": 23.2,
+    "lat": 29.986953,
+    "lng": 31.356113,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:14:01Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 61.5,
+    "temperature": 28.2,
+    "lat": 30.164977,
+    "lng": 31.267133,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:56:15Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 85.7,
+    "temperature": 33.5,
+    "lat": 30.255898,
+    "lng": 31.283782,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:44:25Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 23.8,
+    "temperature": 21.0,
+    "lat": 29.676299,
+    "lng": 31.47759,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:38:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 58.2,
+    "temperature": 25.3,
+    "lat": 29.886563,
+    "lng": 31.012676,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:56:08Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 88.1,
+    "temperature": 31.9,
+    "lat": 30.061807,
+    "lng": 31.48777,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:34:28Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 42.9,
+    "temperature": 37.1,
+    "lat": 30.09817,
+    "lng": 31.09889,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:34:08Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 64.1,
+    "temperature": 40.8,
+    "lat": 29.850568,
+    "lng": 31.491006,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:48:19Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 10.1,
+    "temperature": 38.6,
+    "lat": 29.856811,
+    "lng": 30.960979,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:23:00Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 29.0,
+    "temperature": 23.6,
+    "lat": 29.686202,
+    "lng": 31.468346,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:12:14Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 54.0,
+    "temperature": 19.6,
+    "lat": 30.414028,
+    "lng": 31.573358,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:18:14Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 81.5,
+    "temperature": 33.3,
+    "lat": 29.910444,
+    "lng": 31.400381,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:36:20Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 71.0,
+    "temperature": 26.2,
+    "lat": 30.353136,
+    "lng": 30.835861,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:28:10Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 27.2,
+    "temperature": 30.8,
+    "lat": 29.749974,
+    "lng": 30.843926,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:24:10Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 80.7,
+    "temperature": 20.8,
+    "lat": 29.82504,
+    "lng": 31.556018,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:42:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 59.6,
+    "temperature": 38.9,
+    "lat": 29.983506,
+    "lng": 31.146667,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:12:11Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 37.3,
+    "temperature": 28.0,
+    "lat": 30.300936,
+    "lng": 31.077042,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:26:14Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 60.5,
+    "temperature": 33.7,
+    "lat": 29.748876,
+    "lng": 31.459219,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:22:15Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 47.0,
+    "temperature": 33.1,
+    "lat": 30.431891,
+    "lng": 31.056139,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:22:30Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 63.9,
+    "temperature": 39.1,
+    "lat": 30.208209,
+    "lng": 31.387923,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:42:10Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 22.6,
+    "temperature": 21.4,
+    "lat": 29.826853,
+    "lng": 31.332349,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:26:11Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 60.8,
+    "temperature": 23.6,
+    "lat": 30.415197,
+    "lng": 30.992191,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:16:09Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 25.6,
+    "temperature": 30.2,
+    "lat": 30.322471,
+    "lng": 30.944547,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:49:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 97.9,
+    "temperature": 23.5,
+    "lat": 30.371571,
+    "lng": 31.108395,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:16:12Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 82.8,
+    "temperature": 26.1,
+    "lat": 29.855467,
+    "lng": 31.311797,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:20:24Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 38.0,
+    "temperature": 31.8,
+    "lat": 30.184578,
+    "lng": 31.009329,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:48:25Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 26.5,
+    "temperature": 40.6,
+    "lat": 29.664819,
+    "lng": 31.44938,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:04:14Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 90.6,
+    "temperature": 23.8,
+    "lat": 30.030812,
+    "lng": 31.194306,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:00:19Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 75.9,
+    "temperature": 38.4,
+    "lat": 30.066682,
+    "lng": 31.375862,
+    "status": "OK",
+    "timestamp": "2026-07-10T09:32:00Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 69.9,
+    "temperature": 33.6,
+    "lat": 29.664797,
+    "lng": 31.249805,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:54:08Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 96.4,
+    "temperature": 28.2,
+    "lat": 29.914092,
+    "lng": 30.931734,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:52:07Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 52.6,
+    "temperature": 35.2,
+    "lat": 29.924089,
+    "lng": 31.372223,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:44:08Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 47.9,
+    "temperature": 29.4,
+    "lat": 29.787791,
+    "lng": 31.350968,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:50:09Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 80.2,
+    "temperature": 26.5,
+    "lat": 30.207949,
+    "lng": 30.923765,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:24:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 25.5,
+    "temperature": 27.6,
+    "lat": 29.789132,
+    "lng": 30.872309,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:27:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 29.7,
+    "temperature": 32.5,
+    "lat": 30.310677,
+    "lng": 30.882894,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:18:19Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 87.6,
+    "temperature": 25.5,
+    "lat": 29.719777,
+    "lng": 31.539995,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:46:27Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 73.8,
+    "temperature": 37.1,
+    "lat": 29.720679,
+    "lng": 31.51557,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:44:13Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 28.6,
+    "temperature": 36.9,
+    "lat": 29.963391,
+    "lng": 30.887975,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:00:11Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 79.1,
+    "temperature": 33.7,
+    "lat": 29.679555,
+    "lng": 31.117079,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:26:25Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 43.2,
+    "temperature": 24.8,
+    "lat": 29.944637,
+    "lng": 31.300492,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:24:01Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 60.7,
+    "temperature": 29.1,
+    "lat": 29.989122,
+    "lng": 30.948571,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:42:18Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 50.6,
+    "temperature": 29.3,
+    "lat": 30.104624,
+    "lng": 31.179638,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:10:26Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 50.9,
+    "temperature": 34.0,
+    "lat": 30.253629,
+    "lng": 31.526764,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:00:09Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 45.4,
+    "temperature": 20.4,
+    "lat": 29.79259,
+    "lng": 31.245269,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:20:16Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 39.4,
+    "temperature": 26.5,
+    "lat": 29.720155,
+    "lng": 30.850484,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:36:00Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 84.6,
+    "temperature": 27.2,
+    "lat": 30.347054,
+    "lng": 31.454634,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:58:15Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 40.4,
+    "temperature": 37.2,
+    "lat": 29.779864,
+    "lng": 31.136574,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:36:22Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 78.3,
+    "temperature": 21.2,
+    "lat": 30.341789,
+    "lng": 31.477252,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:14:05Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 30.3,
+    "temperature": 24.8,
+    "lat": 29.688451,
+    "lng": 31.170098,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:14:30Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 49.9,
+    "temperature": 26.9,
+    "lat": 29.705396,
+    "lng": 31.10029,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:32:12Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 38.1,
+    "temperature": 19.1,
+    "lat": 30.427325,
+    "lng": 31.416933,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:04:25Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 69.6,
+    "temperature": 40.4,
+    "lat": 29.803801,
+    "lng": 31.436268,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:28:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 62.5,
+    "temperature": 40.5,
+    "lat": 29.8615,
+    "lng": 31.268184,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:46:17Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 56.0,
+    "temperature": 38.7,
+    "lat": 30.288391,
+    "lng": 31.22577,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:06:18Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 98.6,
+    "temperature": 41.0,
+    "lat": 30.370421,
+    "lng": 31.634849,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:36:23Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 86.4,
+    "temperature": 21.1,
+    "lat": 30.330735,
+    "lng": 30.881779,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:26:08Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 34.7,
+    "temperature": 26.0,
+    "lat": 29.974716,
+    "lng": 31.244978,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:34:19Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 75.2,
+    "temperature": 21.5,
+    "lat": 30.172947,
+    "lng": 30.880185,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:28:22Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 64.0,
+    "temperature": 29.5,
+    "lat": 30.152535,
+    "lng": 31.61173,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:00:00Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 98.9,
+    "temperature": 35.4,
+    "lat": 29.860976,
+    "lng": 30.959389,
+    "status": "OK",
+    "timestamp": "2026-07-10T09:05:00Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 23.7,
+    "temperature": 33.3,
+    "lat": 29.685694,
+    "lng": 31.136636,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:18:02Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 32.1,
+    "temperature": 26.9,
+    "lat": 30.421204,
+    "lng": 31.113242,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:34:20Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 80.9,
+    "temperature": 25.3,
+    "lat": 30.145284,
+    "lng": 31.088369,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:48:28Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 23.2,
+    "temperature": 30.0,
+    "lat": 29.808339,
+    "lng": 31.600803,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:44:06Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 94.1,
+    "temperature": 39.1,
+    "lat": 30.416494,
+    "lng": 31.151714,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:36:09Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 93.9,
+    "temperature": 18.9,
+    "lat": 30.143251,
+    "lng": 31.158413,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:12:24Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 50.7,
+    "temperature": 22.4,
+    "lat": 29.758954,
+    "lng": 31.577791,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:32:12Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 22.2,
+    "temperature": 38.2,
+    "lat": 29.877584,
+    "lng": 31.272035,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:26:06Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 44.9,
+    "temperature": 25.9,
+    "lat": 30.209253,
+    "lng": 31.631221,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:06:26Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 23.8,
+    "temperature": 34.5,
+    "lat": 30.073263,
+    "lng": 31.180463,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:42:07Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 20.2,
+    "temperature": 18.6,
+    "lat": 30.335324,
+    "lng": 31.283604,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:46:28Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 46.4,
+    "temperature": 26.0,
+    "lat": 29.902306,
+    "lng": 31.322038,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:52:20Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 73.1,
+    "temperature": 34.7,
+    "lat": 30.078638,
+    "lng": 31.067374,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:04:19Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 22.8,
+    "temperature": 19.7,
+    "lat": 30.226925,
+    "lng": 31.30546,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:14:07Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 34.6,
+    "temperature": 33.2,
+    "lat": 30.241491,
+    "lng": 31.398611,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:04:16Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 31.1,
+    "temperature": 24.2,
+    "lat": 29.945646,
+    "lng": 30.875733,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:56:29Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 86.2,
+    "temperature": 40.4,
+    "lat": 30.028948,
+    "lng": 31.05659,
+    "status": "OK",
+    "timestamp": "2026-07-10T09:50:00Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 31.3,
+    "temperature": 26.5,
+    "lat": 30.279544,
+    "lng": 31.005995,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:16:29Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 91.4,
+    "temperature": 21.7,
+    "lat": 29.694586,
+    "lng": 31.362736,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:32:07Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 95.9,
+    "temperature": 34.9,
+    "lat": 30.364717,
+    "lng": 31.455339,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:22:05Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 32.2,
+    "temperature": 36.9,
+    "lat": 29.842135,
+    "lng": 31.311021,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:36:24Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 68.3,
+    "temperature": 29.2,
+    "lat": 29.706145,
+    "lng": 31.273639,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:50:18Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 53.7,
+    "temperature": 31.3,
+    "lat": 30.184648,
+    "lng": 31.468192,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:28:02Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 69.3,
+    "temperature": 28.5,
+    "lat": 29.668835,
+    "lng": 30.885675,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:34:12Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 35.7,
+    "temperature": 19.5,
+    "lat": 30.129064,
+    "lng": 31.607403,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:12:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 43.7,
+    "temperature": 37.1,
+    "lat": 29.759025,
+    "lng": 31.045854,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:06:04Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 65.5,
+    "temperature": 36.2,
+    "lat": 29.911603,
+    "lng": 30.928711,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:56:05Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 86.9,
+    "temperature": 37.6,
+    "lat": 29.653514,
+    "lng": 31.044809,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:36:25Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 72.3,
+    "temperature": 24.9,
+    "lat": 30.024642,
+    "lng": 31.3383,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:32:30Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 92.5,
+    "temperature": 38.5,
+    "lat": 30.108511,
+    "lng": 31.608251,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:10:07Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 29.2,
+    "temperature": 26.6,
+    "lat": 30.411439,
+    "lng": 30.920627,
+    "status": "OK",
+    "timestamp": "2026-07-10T09:39:00Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 45.3,
+    "temperature": 23.2,
+    "lat": 30.279803,
+    "lng": 30.860651,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:00:02Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 75.7,
+    "temperature": 22.2,
+    "lat": 29.74741,
+    "lng": 30.927505,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:18:20Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 92.2,
+    "temperature": 31.7,
+    "lat": 30.211466,
+    "lng": 30.977968,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:16:03Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 96.3,
+    "temperature": 36.3,
+    "lat": 29.859483,
+    "lng": 30.873513,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:22:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 44.3,
+    "temperature": 20.7,
+    "lat": 29.67025,
+    "lng": 31.183494,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:46:10Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 61.8,
+    "temperature": 40.5,
+    "lat": 30.285098,
+    "lng": 30.835797,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:24:22Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 42.8,
+    "temperature": 23.1,
+    "lat": 29.999068,
+    "lng": 30.977563,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:13:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 85.0,
+    "temperature": 21.4,
+    "lat": 29.994718,
+    "lng": 31.375816,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:43:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 25.3,
+    "temperature": 29.9,
+    "lat": 30.310223,
+    "lng": 30.941586,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:46:06Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 70.1,
+    "temperature": 28.6,
+    "lat": 30.32893,
+    "lng": 30.854187,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:18:14Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 61.0,
+    "temperature": 35.2,
+    "lat": 30.030929,
+    "lng": 31.395266,
+    "status": "OK",
+    "timestamp": "2026-07-10T09:55:00Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 56.1,
+    "temperature": 27.9,
+    "lat": 29.868956,
+    "lng": 31.376064,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:50:26Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 80.4,
+    "temperature": 20.2,
+    "lat": 29.723415,
+    "lng": 31.269452,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:58:23Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 68.9,
+    "temperature": 30.9,
+    "lat": 30.43798,
+    "lng": 31.309312,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:32:19Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 69.0,
+    "temperature": 23.8,
+    "lat": 30.305065,
+    "lng": 30.858283,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:06:06Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 62.2,
+    "temperature": 40.2,
+    "lat": 29.802084,
+    "lng": 31.198405,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:14:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 89.4,
+    "temperature": 35.4,
+    "lat": 29.759437,
+    "lng": 31.19135,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:14:23Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 53.7,
+    "temperature": 36.2,
+    "lat": 29.726366,
+    "lng": 30.97162,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:16:22Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 88.4,
+    "temperature": 25.5,
+    "lat": 29.859536,
+    "lng": 31.188823,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:34:21Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 75.9,
+    "temperature": 30.3,
+    "lat": 29.927831,
+    "lng": 31.412916,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:40:10Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 49.5,
+    "temperature": 23.0,
+    "lat": 30.303834,
+    "lng": 31.538012,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:26:02Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 33.1,
+    "temperature": 39.8,
+    "lat": 30.069992,
+    "lng": 31.506539,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:48:02Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 20.6,
+    "temperature": 37.6,
+    "lat": 29.883912,
+    "lng": 31.132964,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:20:29Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 73.9,
+    "temperature": 40.8,
+    "lat": 30.137578,
+    "lng": 31.110451,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:42:10Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 70.6,
+    "temperature": 36.2,
+    "lat": 30.421164,
+    "lng": 31.62811,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:56:08Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 64.8,
+    "temperature": 29.8,
+    "lat": 29.938407,
+    "lng": 30.87796,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:50:30Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 76.0,
+    "temperature": 28.6,
+    "lat": 29.646702,
+    "lng": 30.904329,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:12:26Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 98.0,
+    "temperature": 36.4,
+    "lat": 29.673732,
+    "lng": 31.206989,
+    "status": "OK",
+    "timestamp": "2026-07-10T10:00:00Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 22.3,
+    "temperature": 40.7,
+    "lat": 30.38719,
+    "lng": 31.229157,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:56:01Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 96.2,
+    "temperature": 27.8,
+    "lat": 30.057257,
+    "lng": 31.225291,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:08:20Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 33.5,
+    "temperature": 37.6,
+    "lat": 30.18781,
+    "lng": 31.57312,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:02:30Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 8.6,
+    "temperature": 34.3,
+    "lat": 29.910767,
+    "lng": 30.975971,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:28:00Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 48.3,
+    "temperature": 38.5,
+    "lat": 30.035215,
+    "lng": 31.333585,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:44:00Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 98.7,
+    "temperature": 19.4,
+    "lat": 30.009044,
+    "lng": 31.071182,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:40:19Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 20.8,
+    "temperature": 20.0,
+    "lat": 29.751413,
+    "lng": 31.442358,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:14:02Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 88.4,
+    "temperature": 36.3,
+    "lat": 30.248401,
+    "lng": 31.375174,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:04:23Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 47.2,
+    "temperature": 23.4,
+    "lat": 29.734028,
+    "lng": 31.530242,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:36:02Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 93.1,
+    "temperature": 29.7,
+    "lat": 30.423289,
+    "lng": 31.235397,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:54:29Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 23.1,
+    "temperature": 30.4,
+    "lat": 29.798096,
+    "lng": 31.185686,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:10:10Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 82.1,
+    "temperature": 32.5,
+    "lat": 30.359442,
+    "lng": 31.539164,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:17:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 62.5,
+    "temperature": 26.7,
+    "lat": 30.434719,
+    "lng": 31.43265,
+    "status": "OK",
+    "timestamp": "2026-07-10T09:40:00Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 78.1,
+    "temperature": 37.5,
+    "lat": 29.684632,
+    "lng": 31.532813,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:32:13Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 78.9,
+    "temperature": 21.5,
+    "lat": 29.727889,
+    "lng": 31.25033,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:10:21Z"
+  },
+  {
+    "device_id": "DEV-9999",
+    "battery": 53.4,
+    "temperature": 35.8,
+    "lat": 30.368723,
+    "lng": 30.999879,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:31:00Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 96.7,
+    "temperature": 18.3,
+    "lat": 30.255726,
+    "lng": 31.261417,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:00:05Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 70.1,
+    "temperature": 27.5,
+    "lat": 30.131562,
+    "lng": 31.564906,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:48:21Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 71.6,
+    "temperature": 18.4,
+    "lat": 30.3929,
+    "lng": 31.149873,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:12:18Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 46.9,
+    "temperature": 32.8,
+    "lat": 29.89726,
+    "lng": 31.26984,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:16:06Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 91.5,
+    "temperature": 36.1,
+    "lat": 30.22764,
+    "lng": 31.112299,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:58:10Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 21.0,
+    "temperature": 26.5,
+    "lat": 29.885409,
+    "lng": 31.389013,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:46:05Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 57.1,
+    "temperature": 20.6,
+    "lat": 29.664806,
+    "lng": 30.969584,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:52:11Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 23.2,
+    "temperature": 32.1,
+    "lat": 29.991623,
+    "lng": 31.200884,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:24:20Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 39.0,
+    "temperature": 23.9,
+    "lat": 29.816908,
+    "lng": 31.379231,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:24:04Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 70.8,
+    "temperature": 24.2,
+    "lat": 30.063353,
+    "lng": 30.920496,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:32:08Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 29.5,
+    "temperature": 25.5,
+    "lat": 29.68604,
+    "lng": 30.956367,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:54:24Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 87.0,
+    "temperature": 22.9,
+    "lat": 30.423969,
+    "lng": 31.258961,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:04:09Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 28.3,
+    "temperature": 22.5,
+    "lat": 30.243689,
+    "lng": 31.635424,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:04:06Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 81.6,
+    "temperature": 29.6,
+    "lat": 29.856518,
+    "lng": 31.200253,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:40:00Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 88.2,
+    "temperature": 23.7,
+    "lat": 30.274179,
+    "lng": 31.47617,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:00:14Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 73.7,
+    "temperature": 28.7,
+    "lat": 30.44118,
+    "lng": 31.350119,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:38:27Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 54.6,
+    "temperature": 35.7,
+    "lat": 30.163994,
+    "lng": 31.566361,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:20:19Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 61.9,
+    "temperature": 20.2,
+    "lat": 29.769445,
+    "lng": 31.001875,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:56:06Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 69.5,
+    "temperature": 36.5,
+    "lat": 30.385877,
+    "lng": 31.34497,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:40:07Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 54.9,
+    "temperature": 23.8,
+    "lat": 29.886183,
+    "lng": 30.961431,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:38:02Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 83.9,
+    "temperature": 31.3,
+    "lat": 29.98231,
+    "lng": 31.121349,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:22:10Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 49.3,
+    "temperature": 35.6,
+    "lat": 30.262129,
+    "lng": 31.387809,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:58:04Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 91.2,
+    "temperature": 22.4,
+    "lat": 30.274132,
+    "lng": 31.30273,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:44:22Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 24.8,
+    "temperature": 18.5,
+    "lat": 29.959906,
+    "lng": 31.437062,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:26:11Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 79.3,
+    "temperature": 31.5,
+    "lat": 29.849165,
+    "lng": 30.977153,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:38:08Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 40.4,
+    "temperature": 18.3,
+    "lat": 30.254495,
+    "lng": 31.599481,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:50:25Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 33.3,
+    "temperature": 21.1,
+    "lat": 30.052787,
+    "lng": 31.108869,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:56:26Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 20.3,
+    "temperature": 34.2,
+    "lat": 30.280588,
+    "lng": 31.257373,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:41:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 25.4,
+    "temperature": 39.0,
+    "lat": 29.856895,
+    "lng": 31.216723,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:58:20Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 70.1,
+    "temperature": 26.0,
+    "lat": 29.699127,
+    "lng": 31.117637,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:08:01Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 46.7,
+    "temperature": 22.1,
+    "lat": 30.070377,
+    "lng": 31.622713,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:36:24Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 76.3,
+    "temperature": 27.3,
+    "lat": 29.889929,
+    "lng": 31.085958,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:16:14Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 57.4,
+    "temperature": 32.3,
+    "lat": 30.059472,
+    "lng": 31.195681,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:56:04Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 56.3,
+    "temperature": 31.5,
+    "lat": 30.330017,
+    "lng": 31.12624,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:24:02Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": "88",
+    "temperature": 28.9,
+    "lat": 29.928028,
+    "lng": 30.936069,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:10:00Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 85.5,
+    "temperature": 19.5,
+    "lat": 30.380804,
+    "lng": 31.343778,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:20:16Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 57.2,
+    "temperature": 22.1,
+    "lat": 30.068994,
+    "lng": 31.609763,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:28:05Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 40.3,
+    "temperature": 19.5,
+    "lat": 29.748792,
+    "lng": 30.88282,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:06:20Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 75.7,
+    "temperature": 19.6,
+    "lat": 30.28011,
+    "lng": 30.838868,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:30:30Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 94.5,
+    "temperature": 21.7,
+    "lat": 29.742837,
+    "lng": 31.249006,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:54:18Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 62.2,
+    "temperature": 23.1,
+    "lat": 30.415157,
+    "lng": 31.284634,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:38:17Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 60.0,
+    "temperature": 25.6,
+    "lat": 30.438391,
+    "lng": 31.516802,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:50:10Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 46.4,
+    "temperature": 32.4,
+    "lat": 30.285981,
+    "lng": 31.601848,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:08:26Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 71.6,
+    "temperature": 32.3,
+    "lat": 30.184879,
+    "lng": 31.343698,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:02:30Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 39.5,
+    "temperature": 33.2,
+    "lat": 30.267612,
+    "lng": 31.516625,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:42:15Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 90.8,
+    "temperature": 21.8,
+    "lat": 29.976083,
+    "lng": 30.855469,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:54:03Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 92.4,
+    "temperature": 36.7,
+    "lat": 29.752342,
+    "lng": 30.948954,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:12:17Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 82.5,
+    "temperature": 25.0,
+    "lat": 29.71444,
+    "lng": 31.600836,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:28:02Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 51.7,
+    "temperature": 19.0,
+    "lat": 29.913066,
+    "lng": 31.606795,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:56:03Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 92.1,
+    "temperature": 28.1,
+    "lat": 29.68891,
+    "lng": 31.548856,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:32:07Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 66.6,
+    "temperature": 30.7,
+    "lat": 29.977765,
+    "lng": 30.860892,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:42:14Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 22.6,
+    "temperature": 27.6,
+    "lat": 30.433598,
+    "lng": 31.318175,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:33:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 62.1,
+    "temperature": 40.2,
+    "lat": 30.421329,
+    "lng": 31.589565,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:02:03Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 36.0,
+    "temperature": 37.3,
+    "lat": 30.195619,
+    "lng": 30.928851,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:10:06Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 61.6,
+    "temperature": 20.2,
+    "lat": 30.37107,
+    "lng": 31.334471,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:58:27Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 59.3,
+    "temperature": 35.2,
+    "lat": 29.767017,
+    "lng": 31.599242,
+    "status": "OK",
+    "timestamp": "2026-07-10T09:15:00Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 50.5,
+    "temperature": 29.0,
+    "lat": 29.895072,
+    "lng": 31.370119,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:48:29Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 74.7,
+    "temperature": 34.4,
+    "lat": 30.313112,
+    "lng": 30.996979,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:12:27Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 75.4,
+    "temperature": 40.9,
+    "lat": 30.372279,
+    "lng": 31.414938,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:28:30Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 43.8,
+    "temperature": 38.1,
+    "lat": 29.97614,
+    "lng": 31.035043,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:40:14Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 46.4,
+    "temperature": 28.5,
+    "lat": 29.796838,
+    "lng": 31.629921,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:46:09Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 80.6,
+    "temperature": 19.0,
+    "lat": 30.371845,
+    "lng": 31.085751,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:14:22Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 59.0,
+    "temperature": 27.4,
+    "lat": 29.758936,
+    "lng": 30.905007,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:50:02Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 58.1,
+    "temperature": 38.3,
+    "lat": 30.174319,
+    "lng": 31.584123,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:36:15Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 88.9,
+    "temperature": 24.1,
+    "lat": 30.37287,
+    "lng": 31.139278,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:48:22Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 22.5,
+    "temperature": 35.4,
+    "lat": 30.43492,
+    "lng": 30.983735,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:32:11Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 90.9,
+    "temperature": 18.7,
+    "lat": 30.130032,
+    "lng": 31.16881,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:26:20Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 87.8,
+    "temperature": 28.9,
+    "lat": 30.133976,
+    "lng": 31.15605,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:10:28Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 35.4,
+    "temperature": 22.3,
+    "lat": 29.656993,
+    "lng": 31.494537,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:30:27Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 56.0,
+    "temperature": 34.3,
+    "lat": 29.651952,
+    "lng": 30.837387,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:06:17Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 63.5,
+    "temperature": 30.9,
+    "lat": 30.201806,
+    "lng": 31.021675,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:02:11Z"
+  },
+  {
+    "device_id": "DEV-1003",
+    "battery": 73.1,
+    "temperature": 27.3,
+    "lat": 30.087117,
+    "lng": 30.86429,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:40:10Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 40.7,
+    "temperature": 38.6,
+    "lat": 30.303182,
+    "lng": 30.950024,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:00:20Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 95.0,
+    "temperature": 20.3,
+    "lat": 29.997435,
+    "lng": 31.489694,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:11:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 46.6,
+    "temperature": 26.4,
+    "lat": 29.768166,
+    "lng": 31.138892,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:26:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 78.2,
+    "temperature": 23.2,
+    "lat": 29.898273,
+    "lng": 31.43245,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:31:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 98.8,
+    "temperature": 38.3,
+    "lat": 29.890774,
+    "lng": 31.282355,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:29:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1001",
+    "battery": 64.1,
+    "temperature": 29.0,
+    "lat": 29.968517,
+    "lng": 31.457442,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:54:21Z"
+  },
+  {
+    "device_id": "DEV-1005",
+    "battery": 8.9,
+    "temperature": 31.8,
+    "lat": 30.302785,
+    "lng": 31.393633,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:27:00Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 22.1,
+    "temperature": 24.3,
+    "lat": 30.086957,
+    "lng": 30.913334,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:34:03Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 62.3,
+    "temperature": 24.0,
+    "lat": 29.995092,
+    "lng": 31.347097,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:38:00Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 25.8,
+    "temperature": 19.6,
+    "lat": 30.163984,
+    "lng": 30.944625,
+    "status": "OK",
+    "timestamp": "2026-07-10T06:18:06Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 41.1,
+    "temperature": 35.7,
+    "lat": 29.674826,
+    "lng": 30.926058,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:15:00Z",
+    "received_at": "2026-07-10T09:20:00Z"
+  },
+  {
+    "device_id": "DEV-1004",
+    "battery": 23.0,
+    "temperature": 27.3,
+    "lat": 30.040064,
+    "lng": 31.42006,
+    "status": "OK",
+    "timestamp": "2026-07-10T08:30:05Z"
+  },
+  {
+    "device_id": "DEV-1002",
+    "battery": 86.9,
+    "temperature": 39.9,
+    "lat": 29.834402,
+    "lng": 31.490915,
+    "status": "OK",
+    "timestamp": "2026-07-10T07:20:04Z"
+  }
+]
